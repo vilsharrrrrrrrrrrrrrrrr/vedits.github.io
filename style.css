@@ -1,0 +1,52 @@
+h2{
+    text-align: center;
+    color: azure;
+    font-family: 'Staatliches', cursive;
+
+}
+.nav{
+    display: inline-block;
+}
+h1{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+
+}
+body{
+    background-image: url(vedits.jpg);
+}
+h3{
+    font-family: 'Staatliches', cursive;
+    color: yellow;
+        width: 1890px;
+        border: 10px solid rgb(235, 95, 14);
+        padding: 50px;
+        margin: 10px;
+      
+}
+.container {
+    height: 200px;
+    position: relative;
+
+  }
+  .center {
+    margin: 10;
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+ .boxx{
+    margin: 110;
+    position: absolute;
+    top: 130%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    display: inline;
+    
+ }
+
+
+
